@@ -1,4 +1,4 @@
-# spring_practice
+# Spring_practice
 - Spring Boot 10월 31일~11월 11일
 
 # STUDY
