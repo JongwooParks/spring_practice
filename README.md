@@ -22,6 +22,7 @@
 	개발 시간을 단축할 수 있다.
 	
 - Spring MVC(Front-Controller 패턴)
+![Spring MVC](./pattern.jfif)
            
 - Spring MVC 패턴의 특징
    - HttpServletRequest, HttpServletResponse를 거의 사용할 필요 없이 기능 구현
